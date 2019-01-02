@@ -19,4 +19,6 @@ Tested functionalities:
 
 • Complete shopping workflow
 
-:heavy_exclamation_mark: `NOTE: This is my learning and practicing project. All comments and suggestions are more than welcome!`
+Run the project :
+mvn clean install
+
